@@ -1,5 +1,4 @@
-# Home to the Dortania Guides
+# Dortania 指南的首页
 
-Welcome to the Dortania home page. This site will serve as a starting place for your macOS journey.
-
+欢迎来到 Dortania 的主页。这个网站将帮助您开启 macOS 的旅程。
 
